@@ -1,2 +1,4 @@
 # pitrix
-Pitrix Official Repository
+Pitrix session authentication
+
+Official Repository
