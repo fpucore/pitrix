@@ -1,0 +1,20 @@
+#!/bin/bash
+#
+#start
+
+echo "Stopping Pitrix authentication... "
+
+echo "Cleaning up... "
+echo "..."
+
+rm -fr /tmp/agentp*
+rm /tmp/locale_reg
+#
+echo
+
+echo "Pitrix authentication has been successfully stopped."
+echo
+# extra break a must
+echo
+
+#end

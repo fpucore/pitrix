@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+#
+
+#start
+import os
+os.system('cat /tmp/locale_reg')
+os.system('echo')
+
+#end

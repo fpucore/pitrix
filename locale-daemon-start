@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+#
+
+#start
+import os
+os.system('cp ~/pitrix/locale_reg_master /tmp/locale_reg')
+os.system('echo')
+os.system('~/pitrix/locale-daemon-monitor')
+
+#end

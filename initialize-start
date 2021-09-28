@@ -1,0 +1,13 @@
+#!/bin/bash
+#
+#start
+
+cat ~/pitrix/initialize
+~/pitrix/starter
+~/pitrix/reader
+#
+cat ~/pitrix/initialize_completed && echo
+#end with echo for clean finish
+echo
+
+#end

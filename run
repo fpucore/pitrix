@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#start
+
+~/pitrix/initialize-start
+~/pitrix/locale-daemon-start
+
+#end

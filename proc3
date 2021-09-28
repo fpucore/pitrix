@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#start
+
+for n in {1..29}; do ~/pitrix/proc2; done
+#
+
+#end

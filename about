@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#start
+
+echo
+cat ~/pitrix/stuff/about
+echo
+#again, please leave extra break
+
+echo
+
+#end

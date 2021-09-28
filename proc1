@@ -1,0 +1,11 @@
+#!/bin/bash
+#
+#start
+
+mkdir /tmp/agentp/
+#
+
+echo -n $(( $RANDOM % 10 )) > /tmp/agentp/key
+#
+
+#end

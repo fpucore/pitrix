@@ -1,0 +1,8 @@
+#!/bin/bash
+#
+#start
+
+echo $(( $RANDOM % 10 )) >> /tmp/agentp/key
+#
+
+#end

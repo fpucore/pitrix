@@ -1,0 +1,10 @@
+#!/usr/bin/python3
+#
+#to create a 32 character numeric key
+
+#start
+import os
+os.system('cat /tmp/agentp/key')
+os.system('echo')
+
+#end

@@ -1,0 +1,13 @@
+#!/usr/bin/python3
+#
+#to create a 32 character numeric key
+
+#start
+import os
+os.system('~/pitrix/proc1')
+os.system('~/pitrix/proc2')
+os.system('~/pitrix/proc3')
+os.system('~/pitrix/proc4')
+
+os.system('~/pitrix/logger')
+#end
